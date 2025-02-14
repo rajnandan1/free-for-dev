@@ -897,6 +897,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Wachete](https://www.wachete.com) - monitor five pages, checks every 24 hours.
   * [Xitoring.com](https://xitoring.com/) — Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!
   * [Servervana](https://servervana.com) - Advanced uptime monitoring with support for large projects and teams. Provides HTTP monitoring, Browser based monitoring, DNS monitoring, domain monitoring, status pages and more. The free tier includes 10 HTTP monitors, 1 DNS monitor and one status page.
+  * [Kener.ing](https://github.com/rajnandan1/kener) - Build stunning status pages using Kener. It is open source and self hostable.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
